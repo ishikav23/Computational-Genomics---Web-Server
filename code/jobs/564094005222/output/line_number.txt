@@ -1,0 +1,2 @@
+  354600 jobs/564094005222/input/CGT2427_1.fq.gz
+  471217 jobs/564094005222/input/CGT2427_2.fq.gz
